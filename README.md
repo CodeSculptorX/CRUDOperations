@@ -122,7 +122,7 @@ Successful Response
     {
       "id": 2,
       "productname": "Apple",
-      "price": 45,
+      "price": 47,
       "productdetails": "Apple product"
     }
   ],
