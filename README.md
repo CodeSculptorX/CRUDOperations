@@ -18,7 +18,7 @@ This project is a .NET Core Web API that provides CRUD (Create, Read, Update, De
 - MySQL Server
 - Visual Studio or another code editor of your choice
 - [Swashbuckle.AspNetCore](https://www.nuget.org/packages/Swashbuckle.AspNetCore) for Swagger integration
-- [APIException](#apiexception-library) library
+- [ExcepitionMidLib](#https://github.com/CodeSculptorX/ExcepitionMidLib) library
 
 ## Getting Started
 
